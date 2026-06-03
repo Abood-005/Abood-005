@@ -15,7 +15,7 @@
 
 Second-year Computer Science student specializing in Cloud Computing at Sheridan College. I focus on building practical projects in web development and cloud infrastructure. Currently seeking a co-op position for Fall 2026.
 
-Active project: **Barbers Touch** — a full-stack barber booking web app.
+Active project: **Barbers Touch** a full-stack barber booking web app.
 
 ---
 
