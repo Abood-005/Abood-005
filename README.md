@@ -4,16 +4,15 @@
   CS Student at Sheridan College &nbsp;·&nbsp; Cloud Computing &nbsp;·&nbsp; Open to Co-op Fall 2026
 </p>
 
-<p align="center">
-  <a href="mailto:your@email.com">Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>
-</p>
+<a href="mailto:abdllahabbara@icloud.com">Email</a> &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/abdllah-abbara/">LinkedIn</a> &nbsp;|&nbsp;
+<a href="https://sparkwebdigital.ca">sparkwebdigital.ca</a>
 
 ---
 
 ### About
 
-Second-year Computer Science student specializing in Cloud Computing at Sheridan College. I focus on building practical projects in web development and cloud infrastructure. Currently seeking a co-op position for Fall 2026.
+Third-year Computer Science student specializing in Cloud Computing at Sheridan College. I focus on building practical projects in web development and cloud infrastructure. Currently seeking a co-op position for Fall 2026.
 
 Active project: **Barbers Touch** a full-stack barber booking web app.
 
